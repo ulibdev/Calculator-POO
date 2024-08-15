@@ -12,7 +12,7 @@ int main() {
 
 	cout << "Multiplicacion:" << casio.multiplicar(10, 10) << endl;
 
-	cout << "Division:" << casio.dividir(10, 10) << endl;
+	cout << "Division:" << casio.dividir(10, 5) << endl;
 
 	return 0;
 }
